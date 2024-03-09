@@ -11,12 +11,17 @@
   set heading(numbering: numbering_from_second)
   set heading(supplement: "Section")
   heading(level: 1)[
+    #set text(size: 18pt)
     Constitional Amendement: #title
   ]
   heading(level: 3, numbering: none)[
+    #set text(size: 14pt)
     Preamble
   ]
   preamble
+  show heading.where(level: 3): (it) => {
+    counter(heading).display()
+  }
   counter(heading).update(1)
   doc
 }

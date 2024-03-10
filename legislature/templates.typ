@@ -20,6 +20,7 @@
   ]
   preamble
   show heading.where(level: 3): (it) => {
+    parbreak()
     counter(heading).display()
   }
   counter(heading).update(1)

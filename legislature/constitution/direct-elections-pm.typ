@@ -28,7 +28,7 @@ The calculation of the 40% threshold shall exclude any null and void ballots, fo
 ===
 In the absence of a candidate achieving the required 40% threshold in the first round, a second-round election shall be initiated, featuring the two candidates with the highest number of votes from the first round.
 ===
-The second-round election shall be scheduled no later than 30 days following the announcement of the first-round results.
+The second-round election shall be scheduled no later than *1 meeting* following the announcement of the first-round results.
 ===
 The candidate who receives the majority of votes in the second round shall be declared the winner and duly elected as Prime Minister.
 

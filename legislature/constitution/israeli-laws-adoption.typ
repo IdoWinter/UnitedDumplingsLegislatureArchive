@@ -33,6 +33,7 @@ This constitutional provision may be amended or repealed solely by the United Du
 This amendment becomes effective immediately upon its ratification, marking a step towards legislative completeness and coherence within the United Dumplings.
 
 ], heb: [
+  
 ])
 
 
